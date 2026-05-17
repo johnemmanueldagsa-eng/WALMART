@@ -6,7 +6,7 @@ import Script from "next/script";
 
 export const metadata: Metadata = {
   title: "Walmart Gift Card",
-  description: "Participate in the Dunkin' Rewards program and get a chance to claim a $1000 gift card.",
+  description: "Participate in the Walmart Rewards program and get a chance to claim a $500 gift card.",
     icons: {
     icon: [
       { url: "https://i.imgur.com/RSWUdS8.png", type: "image/png" },
