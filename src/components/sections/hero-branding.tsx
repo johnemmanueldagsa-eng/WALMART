@@ -48,7 +48,7 @@ const HeroBranding = () => {
             {/* Main Card Image */}
             <div className="relative z-10 w-[240px] sm:w-[320px] mx-auto transition-transform duration-500 group-hover:scale-105">
               <img 
-                src="https://i.imgur.com/IGsy6Up.png" 
+                src="https://i.imgur.com/SEKa08t.jpeg" 
                 alt="Marshalls $750 Gift Card" 
                 className="w-full h-auto"
               />
